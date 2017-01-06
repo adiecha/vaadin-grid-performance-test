@@ -100,4 +100,5 @@ public class GridPerformanceTest extends UI {
 
         private static final long serialVersionUID = 1L;
     }
+
 }
