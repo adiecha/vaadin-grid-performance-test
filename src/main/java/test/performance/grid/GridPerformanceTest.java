@@ -39,7 +39,7 @@ public class GridPerformanceTest extends UI {
 
     @Override
     protected void init(VaadinRequest vaadinRequest) {
-
+		// Added sprint1
         layout = new VerticalLayout();
         lblGrid = new Label("Vaadin Grid Performance");
         tabsheet = new TabSheet();
